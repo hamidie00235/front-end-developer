@@ -16,7 +16,7 @@
   padding: 20px;
 }
 .list{
-  padding: 20px;
+   padding: 20px;
 }
 .App-header {
   background-color: #282c34;
@@ -38,6 +38,6 @@
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
+    transform : rotate(360deg);
   }
 }

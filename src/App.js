@@ -16,7 +16,7 @@ const storeItems=[{
 
 {
   name:"Cikolata",
-  price:26,
+   price:26,
 },
 
 

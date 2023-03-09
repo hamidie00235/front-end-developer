@@ -12,7 +12,7 @@ const CardComponent= ({name},onAdd) => {
     
         <Group position="apart" mt="md" mb="xs">
             <Text weight={500}>{name}</Text>
-            <Badge color="pink" variant="light">
+            < Badge color="pink" variant="light">
               On Sale
             </Badge>
           </Group>
